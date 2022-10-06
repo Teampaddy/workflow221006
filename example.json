@@ -1,0 +1,17 @@
+[
+	{
+		"TableName": "Table1",
+		"ColumnNames": ["one","two","three","four"],
+		"ColumnTypes": ["TEXT","INT","TEXT","TEXT"]
+	},
+	{
+		"TableName": "Table2",
+		"ColumnNames": ["one","two","three",'five'],
+		"ColumnTypes": ["TEXT","INT","TEXT","TEXT"]
+	},
+	{
+		"TableName": "Table3",
+		"ColumnNames": ["one","two","three",'seven'],
+		"ColumnTypes": ["TEXT","INT","TEXT","INT"]
+	}
+]
